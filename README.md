@@ -5,7 +5,7 @@ documented pdf can be found here https://drive.google.com/open?id=0BxDy0M91HFanc
 
 have a look at how awesome this project looks :D
 
-https://www.youtube.com/watch?v=sWkpgjx2BYQ
+https://www.youtube.com/watch?v=3B742fAvcUM
 
 coded in Atmel Studios 7 for Atmega 32 set of MCu.. just change the main.c 
 
